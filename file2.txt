@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file created on local on master
+=======
+file created on "local repo" repo2
+>>>>>>> 2a162bba1410fb41f11850fbda61be8441a34411
